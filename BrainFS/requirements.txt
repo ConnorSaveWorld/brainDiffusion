@@ -1,0 +1,10 @@
+torch
+torch-geometric
+numpy
+scikit-learn  # sklearn
+scipy
+dgl
+tqdm
+hyperopt
+munch
+bottleneck
